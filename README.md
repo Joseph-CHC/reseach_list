@@ -12,4 +12,12 @@
 - [Tropic Trooper’s New Strategy](https://blog.trendmicro.com/trendlabs-security-intelligence/tropic-trooper-new-strategy/)
 - [Malicious Chrome Extensions Found in Chrome Web Store, Form Droidclub Botnet](https://blog.trendmicro.com/trendlabs-security-intelligence/malicious-chrome-extensions-found-chrome-web-store-form-droidclub-botnet/)
 - [Malvertising Campaign Abuses Google’s DoubleClick to Deliver Cryptocurrency Miners](https://blog.trendmicro.com/trendlabs-security-intelligence/malvertising-campaign-abuses-googles-doubleclick-to-deliver-cryptocurrency-miners/)
-
+## 2017
+- [Magnitude Exploit Kit Now Targeting South Korea With Magniber Ransomware](https://blog.trendmicro.com/trendlabs-security-intelligence/magnitude-exploit-kit-now-targeting-korea-with-magniber-ransomware/)
+- [EITest Campaign Uses Tech Support Scams to Deliver Coinhive’s Monero Miner](https://blog.trendmicro.com/trendlabs-security-intelligence/eitest-campaign-uses-tech-support-scams-deliver-coinhives-monero-miner/)
+- [New Disdain Exploit Kit Detected in the Wild](https://blog.trendmicro.com/trendlabs-security-intelligence/new-disdain-exploit-kit-detected-wild/)
+- [ProMediads Malvertising and Sundown-Pirate Exploit Kit Combo Drops Ransomware and Info Stealer](https://blog.trendmicro.com/trendlabs-security-intelligence/promediads-malvertising-sundown-pirate-exploit-kit/)
+- [AdGholas Malvertising Campaign Employs Astrum Exploit Kit](https://blog.trendmicro.com/trendlabs-security-intelligence/adgholas-malvertising-campaign-employs-astrum-exploit-kit/)
+- [Will Astrum Fill the Vacuum in the Exploit Kit Landscape?](https://blog.trendmicro.com/trendlabs-security-intelligence/astrum-exploit-kit-abuses-diffie-hellman-key-exchange/)
+- [CVE-2017-0022: Microsoft Patches a Vulnerability Exploited by AdGholas and Neutrino](https://blog.trendmicro.com/trendlabs-security-intelligence/cve-2017-0022-microsoft-patches-vulnerability-exploited-adgholas-neutrino/)
+- [Tracking the Decline of Top Exploit Kits](https://blog.trendmicro.com/trendlabs-security-intelligence/tracking-decline-top-exploit-kits/)
