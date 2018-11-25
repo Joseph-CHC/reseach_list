@@ -7,7 +7,7 @@
 - [New Underminer Exploit Kit Delivers Bootkit and Cryptocurrency-mining Malware with Encrypted TCP Tunnel](https://blog.trendmicro.com/trendlabs-security-intelligence/new-underminer-exploit-kit-delivers-bootkit-and-cryptocurrency-mining-malware-with-encrypted-tcp-tunnel/)
 - [New Andariel Reconnaissance Tactics Hint At Next Targets](https://blog.trendmicro.com/trendlabs-security-intelligence/new-andariel-reconnaissance-tactics-hint-at-next-targets/)
 - [Down but Not Out: A Look Into Recent Exploit Kit Activities](https://blog.trendmicro.com/trendlabs-security-intelligence/a-look-into-recent-exploit-kit-activities/)
-[Malicious Edge and Chrome Extension Used to Deliver Backdoor](https://blog.trendmicro.com/trendlabs-security-intelligence/malicious-edge-and-chrome-extension-used-to-deliver-backdoor/)
+- [Malicious Edge and Chrome Extension Used to Deliver Backdoor](https://blog.trendmicro.com/trendlabs-security-intelligence/malicious-edge-and-chrome-extension-used-to-deliver-backdoor/)
 - [FacexWorm Targets Cryptocurrency Trading Platforms, Abuses Facebook Messenger for Propagation](https://blog.trendmicro.com/trendlabs-security-intelligence/facexworm-targets-cryptocurrency-trading-platforms-abuses-facebook-messenger-for-propagation/)
 - [Cryptocurrency Web Miner Script Injected into AOL Advertising Platform](https://blog.trendmicro.com/trendlabs-security-intelligence/cryptocurrency-web-miner-script-injected-into-aol-advertising-platform/)
 - [Pop-up Ads and Over a Hundred Sites are Helping Distribute Botnets, Cryptocurrency Miners and Ransomware](https://blog.trendmicro.com/trendlabs-security-intelligence/pop-up-ads-and-over-a-hundred-sites-are-helping-distribute-botnets-cryptocurrency-miners-and-ransomware/)
