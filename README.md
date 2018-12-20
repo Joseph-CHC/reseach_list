@@ -2,6 +2,7 @@
 ## Whitepaper
 - [Evolution of Exploit Kits](https://www.trendmicro.de/cloud-content/us/pdfs/security-intelligence/white-papers/wp-evolution-of-exploit-kits.pdf)
 ## 2018
+- [New Exploit Kit “Novidade” Found Targeting Home and SOHO Routers](https://blog.trendmicro.com/trendlabs-security-intelligence/new-exploit-kit-novidade-found-targeting-home-and-soho-routers/)
 - [Supply Chain Attack Operation Red Signature Targets South Korean Organizations](https://blog.trendmicro.com/trendlabs-security-intelligence/supply-chain-attack-operation-red-signature-targets-south-korean-organizations/)
 - [Ransomware as a Service Princess Evolution Looking for Affiliates](https://blog.trendmicro.com/trendlabs-security-intelligence/ransomware-as-a-service-princess-evolution-looking-for-affiliates/)
 - [New Underminer Exploit Kit Delivers Bootkit and Cryptocurrency-mining Malware with Encrypted TCP Tunnel](https://blog.trendmicro.com/trendlabs-security-intelligence/new-underminer-exploit-kit-delivers-bootkit-and-cryptocurrency-mining-malware-with-encrypted-tcp-tunnel/)
