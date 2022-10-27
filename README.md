@@ -1,6 +1,36 @@
 # reseach_list
-## Whitepaper
-- [Evolution of Exploit Kits](https://www.trendmicro.de/cloud-content/us/pdfs/security-intelligence/white-papers/wp-evolution-of-exploit-kits.pdf)
+## 2022
+- [How Water Labbu Exploits Electron-Based Applications](https://www.trendmicro.com/pl_pl/research/22/j/how-water-labbu-exploits-electron-based-applications.html)
+- [Water Labbu Abuses Malicious DApps to Steal Cryptocurrency](https://www.trendmicro.com/en_us/research/22/j/water-labbu-abuses-malicious-dapps-to-steal-cryptocurrency.html)
+- [Websites Hosting Fake Cracks Spread Updated CopperStealer Malware](https://www.trendmicro.com/en_us/research/22/f/websites-hosting-fake-cracks-spread-updated-copperstealer.html)
+- [Delving Deep: An Analysis of Earth Lusca’s Operations](https://www.trendmicro.com/content/dam/trendmicro/global/en/research/22/a/earth-lusca-employs-sophisticated-infrastructure-varied-tools-and-techniques/technical-brief-delving-deep-an-analysis-of-earth-lusca-operations.pdf)
+## 2021
+- [Cinobi Banking Trojan Targets Cryptocurrency Exchange Users via Malvertising](https://www.trendmicro.com/en_ph/research/21/h/cinobi-banking-trojan-targets-users-of-cryptocurrency-exchanges-.html)
+- [BIOPASS RAT: New Malware Sniffs Victims via Live Streaming](https://www.trendmicro.com/en_gb/research/21/g/biopass-rat-new-malware-sniffs-victims-via-live-streaming.html)
+- [Water Pamola Attacked Online Shops Via Malicious Orders](https://www.trendmicro.com/en_us/research/21/d/water-pamola-attacked-online-shops-via-malicious-orders.html)
+- [Websites Hosting Cracks Spread Malware, Adware](https://www.trendmicro.com/en_no/research/21/c/websites-hosting-cracks-spread-malware-adware.html)
+- [Earth Wendigo Injects JavaScript Backdoor for Mailbox Exfiltration](https://www.trendmicro.com/en_us/research/21/a/earth-wendigo-injects-javascript-backdoor-to-service-worker-for-.html)
+## 2020
+- [SideWinder Uses South Asian Issues for Spear Phishing, Mobile Attacks](https://www.trendmicro.com/en_us/research/20/l/sidewinder-leverages-south-asian-territorial-issues-for-spear-ph.html)
+- [Operation Earth Kitsune:Tracking SLUB’s Current Operations](https://documents.trendmicro.com/assets/white_papers/wp-operation-earth-kitsune.pdf)
+- [New Magecart Attack Target US Local Government Services](https://www.trendmicro.com/en_us/research/20/f/us-local-government-services-targeted-by-new-magecart-credit-card-skimming-attack.html)
+- [Phishing Attacks from Earth Empusa Reveal ActionSpy](https://www.trendmicro.com/en_us/research/20/f/new-android-spyware-actionspy-revealed-via-phishing-attacks-from-earth-empusa.html)
+- [Operation Poisoned News: Hong Kong Users Targeted with Mobile Malware via Local News Links](https://documents.trendmicro.com/assets/Tech-Brief-Operation-Poisoned-News-Hong-Kong-Users-Targeted-with-Mobile-Malware-via-Local-News-Links.pdf)
+- [Operation Overtrap Targets Japanese Online Banking Users Via Bottle Exploit Kit and Brand-New Cinobi Banking Trojan](https://www.trendmicro.com/en_in/research/20/c/operation-overtrap-targets-japanese-online-banking-users-via-bot.html)
+- [First Binder Exploit Linked to SideWinder APT Group](https://www.trendmicro.com/en_us/research/20/a/first-active-attack-exploiting-cve-2019-2215-found-on-google-play-linked-to-sidewinder-apt-group.html)
+## 2019
+- [Capesand Exploit Kit's Tools Seen in KurdishCoder Campaign](https://www.trendmicro.com/en_us/research/19/l/obfuscation-tools-found-in-the-capesand-exploit-kit-possibly-used-in-kurdishcoder-campaign.html)
+- [New Capesand Exploit Kit Reuses Public Exploits, Tools](https://www.trendmicro.com/en_us/research/19/k/new-exploit-kit-capesand-reuses-old-and-new-public-exploits-and-tools-blockchain-ruse.html)
+- [Magecart Card Skimmers Injected Into Online Shops](https://www.trendmicro.com/en_us/research/19/j/fin6-compromised-e-commerce-platform-via-magecart-to-inject-credit-card-skimmers-into-thousands-of-online-shops.html)
+- [Fileless Botnet Novter Spread Via KovCoreG Campaign](https://www.trendmicro.com/en_us/research/19/j/new-fileless-botnet-novter-distributed-by-kovcoreg-malvertising-campaign.html)
+- [Magecart Targets Hotel Booking Websites on Mobile](https://www.trendmicro.com/en_us/research/19/i/magecart-skimming-attack-targets-mobile-users-of-hotel-chain-booking-websites.html)
+- [Glupteba Hits Routers and Updates C&C Servers](https://www.trendmicro.com/en_us/research/19/i/glupteba-campaign-hits-network-routers-and-updates-cc-servers-with-data-from-bitcoin-transactions.html)
+- [SLUB Gets Rid of GitHub, Intensifies Slack Use](https://blog.trendmicro.com/trendlabs-security-intelligence/SLUB-gets-rid-of-githubintensifies-slack-use/)
+- [ShadowGate Returns With Greenflash Sundown Exploit Kit](https://www.trendmicro.com/en_us/research/19/f/shadowgate-returns-to-worldwide-operations-with-evolved-greenflash-sundown-exploit-kit.html)
+- [Mirrorthief Hits Campus Online Stores Using Magecart](https://www.trendmicro.com/en_us/research/19/e/mirrorthief-group-uses-magecart-skimming-attack-to-hit-hundreds-of-campus-online-stores-in-us-and-canada.html)
+- [Phishing Campaign Steals Credentials Via Watering Hole](https://www.trendmicro.com/en_us/research/19/c/desktop-mobile-phishing-campaign-targets-south-korean-websites-steals-credentials-via-watering-hole.html)
+- [New SLUB Backdoor Uses GitHub, Communicates via Slack](https://www.trendmicro.com/en_us/research/19/c/new-slub-backdoor-uses-github-communicates-via-slack.html)
+- [Magecart Delivered Via Advertising Supply Chain](https://www.trendmicro.com/en_us/research/19/a/new-magecart-attack-delivered-through-compromised-advertising-supply-chain.html)
 ## 2018
 - [New Exploit Kit “Novidade” Found Targeting Home and SOHO Routers](https://blog.trendmicro.com/trendlabs-security-intelligence/new-exploit-kit-novidade-found-targeting-home-and-soho-routers/)
 - [Supply Chain Attack Operation Red Signature Targets South Korean Organizations](https://blog.trendmicro.com/trendlabs-security-intelligence/supply-chain-attack-operation-red-signature-targets-south-korean-organizations/)
@@ -42,6 +72,7 @@
 - [Ad Network Compromised, Users Victimized by Nuclear Exploit Kit](https://blog.trendmicro.com/trendlabs-security-intelligence/ad-network-compromised-users-victimized-by-nuclear-exploit-kit/)
 - [Fiesta Exploit Kit Spreading Crypto-Ransomware – Who Is Affected?](https://blog.trendmicro.com/trendlabs-security-intelligence/fiesta-exploit-kit-spreading-crypto-ransomware-who-is-affected/)
 - [Exploit Kits and Malvertising: A Troublesome Combination](https://blog.trendmicro.com/trendlabs-security-intelligence/exploit-kits-and-malvertising-a-troublesome-combination/)
+- [Evolution of Exploit Kits](https://documents.trendmicro.com/assets/wp/wp-evolution-of-exploit-kits.pdf)
 ## 2014
 - [Banking Trojan Targets South Korean Banks; Uses Pinterest as C&C Channel](https://blog.trendmicro.com/trendlabs-security-intelligence/malware-campaign-targets-south-korean-banks-uses-pinterest-as-cc-channel/)
 - [TorrentLocker Run Hits Italian Targets](https://blog.trendmicro.com/trendlabs-security-intelligence/torrentlocker-run-hits-italian-targets/)
