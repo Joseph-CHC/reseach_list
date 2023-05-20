@@ -1,5 +1,10 @@
 # reseach_list
+## 2023
+- [Water Orthrus's New Campaigns Deliver Rootkit and Phishing Modules](https://www.trendmicro.com/en_us/research/23/e/water-orthrus-new-campaigns-deliver-rootkit-and-phishing-modules.html)
+- [New OpcJacker Malware Distributed via Fake VPN Malvertising](https://www.trendmicro.com/en_us/research/23/c/new-opcjacker-malware-distributed-via-fake-vpn-malvertising.html)
+- [Earth Kitsune Delivers New WhiskerSpy Backdoor via Watering Hole Attack](https://www.trendmicro.com/en_us/research/23/b/earth-kitsune-delivers-new-whiskerspy-backdoor.html)
 ## 2022
+- [Probing Weaponized Chat Applications Abused in Supply-Chain Attacks](https://www.trendmicro.com/en_us/research/22/l/probing-weaponized-chat-applications-abused-in-supply-chain-atta.html)
 - [How Water Labbu Exploits Electron-Based Applications](https://www.trendmicro.com/pl_pl/research/22/j/how-water-labbu-exploits-electron-based-applications.html)
 - [Water Labbu Abuses Malicious DApps to Steal Cryptocurrency](https://www.trendmicro.com/en_us/research/22/j/water-labbu-abuses-malicious-dapps-to-steal-cryptocurrency.html)
 - [Websites Hosting Fake Cracks Spread Updated CopperStealer Malware](https://www.trendmicro.com/en_us/research/22/f/websites-hosting-fake-cracks-spread-updated-copperstealer.html)
