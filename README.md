@@ -1,5 +1,12 @@
 # reseach_list
+## 2025
+- [Earth Lamia Develops Custom Arsenal to Target Multiple Industries](https://www.trendmicro.com/en_us/research/25/e/earth-lamia.html)
+## 2024
+- [MOONSHINE Exploit Kit and DarkNimbus Backdoor Enabling Earth Minotaur’s Multi-Platform Attacks](https://www.trendmicro.com/en_us/research/24/l/earth-minotaur.html)
+- [Earth Krahang Exploits Intergovernmental Trust to Launch Cross-Government Attacks](https://www.trendmicro.com/en_us/research/24/c/earth-krahang.html)
 ## 2023
+- [Earth Lusca Employs New Linux Backdoor, Uses Cobalt Strike for Lateral Movement](https://www.trendmicro.com/en_us/research/23/i/earth-lusca-employs-new-linux-backdoor.html)
+- [Impulse Team’s Massive Years-Long Mostly-Undetected Cryptocurrency Scam](https://www.trendmicro.com/en/research/23/f/impulse-team-massive-cryptocurrency-scam.html)
 - [Water Orthrus's New Campaigns Deliver Rootkit and Phishing Modules](https://www.trendmicro.com/en_us/research/23/e/water-orthrus-new-campaigns-deliver-rootkit-and-phishing-modules.html)
 - [New OpcJacker Malware Distributed via Fake VPN Malvertising](https://www.trendmicro.com/en_us/research/23/c/new-opcjacker-malware-distributed-via-fake-vpn-malvertising.html)
 - [Earth Kitsune Delivers New WhiskerSpy Backdoor via Watering Hole Attack](https://www.trendmicro.com/en_us/research/23/b/earth-kitsune-delivers-new-whiskerspy-backdoor.html)
